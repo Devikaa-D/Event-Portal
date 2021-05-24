@@ -191,7 +191,7 @@ def regevent():
              token = s.dumps(email, salt='email-confirm')
              session['token']=token
 
-             msg = Message('Confirm Email', sender='pdpbfhevent@gmail.com', recipients=[email])
+             msg = Message('Confirm Email', sender='user@gmail.com', recipients=[email])
 
              link = url_for('confirm_email', token=token, _external=True)
 
