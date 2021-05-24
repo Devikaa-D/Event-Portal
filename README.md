@@ -22,14 +22,14 @@ https://drive.google.com/file/d/1-7SIpZzS0UeMCjgA5orBxAYWWoLyddRh/view
 
 ##Libraries used
 
-Python - 3.8.2                
-Flask  - 2.0.0
-Flask-Mail -0.9.1
-Flask-MySQLdb - 0.2.0
-Jinja2 - 3.0.0
-mysqlclient - 1.4.6
-pip - 19.2.3
-env (GNU coreutils) - 8.32
+Python - 3.8.2                   
+Flask  - 2.0.0   
+Flask-Mail -0.9.1   
+Flask-MySQLdb - 0.2.0   
+Jinja2 - 3.0.0   
+mysqlclient - 1.4.6  
+pip - 19.2.3    
+env (GNU coreutils) - 8.32  
 
 ##Instructions for setting up project
 
