@@ -47,19 +47,19 @@ env (GNU coreutils) - 8.32
 
 ##Instructions for setting up project
 
-Installation process :-  
+* Installation process :-  
      python -m venv env     
      env\Scripts\activate      
      pip install flask    
      pip install flask-mysqldb   
      pip install FLASK-mail
 
-Folder Creation :- 
-  A folder named Templates should be created to add HTML files and a folder named static should be created to add CSS files.
+* Folder Creation :- 
+    A folder named Templates should be created to add HTML files and a folder named static should be created to add CSS files.
   
-Connection Setup :-
-  1. To connect database to the system, provide respective host name, password, and username of the system's mysql database. Also create a database with commands given in the file bfh.sql.
-  2. Connect mail server from where the email is sent by providing the mail server information in config.cfg file.
+* Connection Setup :-
+    1. To connect database to the system, provide respective host name, password, and username of the system's mysql database. Also create a database with commands given in the file bfh.sql.
+    2. Connect mail server from where the email is sent by providing the mail server information in config.cfg file.
 
 ##How to run
   activate the environment
