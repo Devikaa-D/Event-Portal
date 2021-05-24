@@ -62,6 +62,7 @@ env (GNU coreutils) - 8.32
     2. Connect mail server from where the email is sent by providing the mail server information in config.cfg file.
 
 ##How to run   
+
   activate the environment   
   env\Scripts\activate   
   set FLASK_APP=bfh1.py   
