@@ -29,7 +29,11 @@ Flask-MySQLdb - 0.2.0
 Jinja2 - 3.0.0   
 mysqlclient - 1.4.6  
 pip - 19.2.3    
-env (GNU coreutils) - 8.32  
+env (GNU coreutils) - 8.32
+
+Folder Creation :- 
+A folder named Templates should be created to add HTML files and a folder named static should be created to add CSS files
+
 
 ##Instructions for setting up project
 
