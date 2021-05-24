@@ -21,9 +21,15 @@ https://drive.google.com/file/d/1-7SIpZzS0UeMCjgA5orBxAYWWoLyddRh/view
 ##How it Works?
 
 1. In the Welcome page, upcoming events are listed according to date and time. select " continue " we will be directed to login page.
-2. There if you already have an account login by providing neccessary details.Otherwise create new account.
-3. After login, home page will appear with details of student and  registered events.
-4. In the home page, three links are provided for adding new events, register for the events and  attended events of  the user.
+2. In the login page if you already have an account, login by providing neccessary details.Otherwise create new account using " sign up " link provided there. User cannot use username which already existed.
+3. After login, a home page will appear with details of student and  registered events.
+4. In the home page, three links are provided for adding new events, register for the events and attended events of the user.
+5. In the event attendance page, list of past events which are attended by the user are listed which is confirmed by user using the email received by them.
+6. In the add events page, new events can be added by providing neccessary details. No new events can be added with same event title and location. 
+7. Event registration page contain a link which provides the details of upcoming events. On selecting it, we will be directed to an another page which contains details of all events added. This page is also provided with a table containing list all the participants of a selected event.
+8. Going back to the event register page, according to desire user can select and register for the events. If tha particular tevent has reached its max participants no new members can register that event.
+9. On registering events, an email is send to provided email address of  the user which redirect to a page where user can confirm their attendance. This confirmation link will be expired the day before the  event.
+ 
 
 
 
