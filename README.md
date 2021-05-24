@@ -20,6 +20,12 @@ https://drive.google.com/file/d/1-7SIpZzS0UeMCjgA5orBxAYWWoLyddRh/view
 
 ##How it Works?
 
+1. In the Welcome page, upcoming events are listed according to date and time. select " continue " we will be directed to login page.
+2. There if you already have an account login by providing neccessary details.Otherwise create new account.
+3. After login, home page will appear with details of student and  registered events.
+4. In the home page, three links are provided for adding new events, register for the events and  attended events of  the user.
+
+
 
 
 ##Libraries used
