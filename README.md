@@ -8,10 +8,12 @@
 1. Poojitha Prasad [poojitha-prasad]
 2.Pooja M [poojamothi]
 
+
 ##Team Id
 BFH/recIBV1ku3o8GIgdH/2021
 
 ##Link to Product walkthrough
+
 https://drive.google.com/file/d/1-7SIpZzS0UeMCjgA5orBxAYWWoLyddRh/view
 
 ##How it Works?
@@ -19,6 +21,7 @@ https://drive.google.com/file/d/1-7SIpZzS0UeMCjgA5orBxAYWWoLyddRh/view
 
 
 ##Libraries used
+
 Python - 3.8.2                
 Flask  - 2.0.0
 Flask-Mail -0.9.1
