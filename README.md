@@ -34,10 +34,10 @@ env (GNU coreutils) - 8.32
 ##Instructions for setting up project
 
 Installation process :-  
-     python -m venv env
-     env\Scripts\activate
-     pip install flask
-     pip install flask-mysqldb
+     python -m venv env     
+     env\Scripts\activate      
+     pip install flask    
+     pip install flask-mysqldb   
      pip install FLASK-mail
 
 ##How to run
