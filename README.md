@@ -63,8 +63,8 @@ env (GNU coreutils) - 8.32
 
 ##How to run   
 
-  activate the environment   
-  env\Scripts\activate   
-  set FLASK_APP=bfh1.py   
-  flask run   
+ activate the environment   
+ env\Scripts\activate   
+ set FLASK_APP=bfh1.py   
+ flask run   
 
