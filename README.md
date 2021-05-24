@@ -61,9 +61,9 @@ env (GNU coreutils) - 8.32
     1. To connect database to the system, provide respective host name, password, and username of the system's mysql database. Also create a database with commands given in the file bfh.sql.
     2. Connect mail server from where the email is sent by providing the mail server information in config.cfg file.
 
-##How to run
-  activate the environment
-  env\Scripts\activate
-  set FLASK_APP=bfh1.py
-  flask run
+##How to run   
+  activate the environment   
+  env\Scripts\activate   
+  set FLASK_APP=bfh1.py   
+  flask run   
 
