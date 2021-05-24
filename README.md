@@ -31,10 +31,6 @@ mysqlclient - 1.4.6
 pip - 19.2.3    
 env (GNU coreutils) - 8.32
 
-Folder Creation :- 
-A folder named Templates should be created to add HTML files and a folder named static should be created to add CSS files
-
-
 ##Instructions for setting up project
 
 Installation process :-  
@@ -43,5 +39,8 @@ Installation process :-
      pip install flask    
      pip install flask-mysqldb   
      pip install FLASK-mail
+
+Folder Creation :- 
+A folder named Templates should be created to add HTML files and a folder named static should be created to add CSS files.
 
 ##How to run
